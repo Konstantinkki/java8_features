@@ -1,0 +1,4 @@
+build in functional interface has :
+   only 1 abstract method provided by Java
+   must have for functional programming since methods needed for functional programming require implementations of these interfaces
+   usually implemented with lambda expressions

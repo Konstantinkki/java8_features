@@ -1,0 +1,2 @@
+stream - its a sequence of elements, such as an array or collection
+modify or remove using a loop and a new array or collection

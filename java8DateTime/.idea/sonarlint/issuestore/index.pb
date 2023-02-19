@@ -1,0 +1,21 @@
+
+?
+ClockClass.java,f\6\f6182722c8a00384e2b01b350ce1a957593d2f6b
+A
+CompareDates.java,8\a\8a0a0779523f4dfceafa95b8238c9ef94744432e
+G
+DateTimeFormatting.java,1\4\149897b28ebb3a6dd06f32ee713d9aaca9847f17
+B
+PeriodExample.java,f\7\f7728fff9b558f15c85004cb26ab726d4cb77ee2
+F
+DurationClassTest.java,3\7\37d8d8d8ca90132bb839782b88962d715e5c43e2
+A
+java8DateTime.iml,d\f\dfa9c2d67ca6f926d1842583ad5559135b0bcf4e
+J
+ChangingDatesAndTimes.java,8\b\8bf33e936878b0a5ff04b5cac39ce09d1acaf106
+B
+ZonedAndDates.java,5\f\5f2bd2078a36ead20a732d744d6656c2712ec9c7
+O
+ConvertingDatesAndCalendar.java,2\e\2ebb018eac19380b6413029b5d538f1186f7391c
+B
+LocalDateTest.java,3\0\30b30a84cc574166df145658d5892b37e86b9453

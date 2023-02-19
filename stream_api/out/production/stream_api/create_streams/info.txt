@@ -1,0 +1,5 @@
+ways to create :
+    Using an array
+    based on collection
+    generate method
+    iterate method

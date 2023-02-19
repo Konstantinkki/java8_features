@@ -1,0 +1,3 @@
+Functional programming
+Input for a method
+implementing functional interface

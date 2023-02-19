@@ -1,0 +1,14 @@
+tOptional is meant for return type
+    for example, querying  the data layer
+    The result may or may not be null
+    No constant null checks on the returned value
+    no NPEs due to forgetting to check for null
+
+    Optional :
+    elegant solution for returning null
+    Methods available to deal with the wrapped value
+    we don't forget we could have been dealing with a null
+    and that means 1fewer NPEs!
+
+    Optional is for returning only.
+    It should not be used as a parameter or field type.

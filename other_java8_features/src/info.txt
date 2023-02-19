@@ -1,0 +1,34 @@
+
+Arrays
+    Arrays can be sorted
+    New concurrent strategy in Java7 : ForkJoinPool
+    Arrays.parallelSort
+    Not always faster
+
+    Array parallel sorting works faster if count of if items very huge !
+
+------------ Unsigned Integer
+32 bit value
+Normal range -2147483648 to 2147483647
+we don't make integers unsigned with this feature
+But we can do calculations with them as if they were unsigned
+
+-----------Concurrent API improve
+new Interfaces
+new methods in the ForkJoinPool
+ConcurrentHashMap additions
+Atomic variables options
+new Class StampedLock - lock for read write access
+
+----------------java memory
+Stack : holds local variables and references for the methods
+Heap : holds all the objects
+    PermGen -
+        part of the heap
+        holds loaded classes and their metadata
+        difficult for the garbage collector
+    PermGen replaced by the MetaSpace
+
+    MetaSpace :
+        Optimized allocation and deallocation to avoid OutOfMemory errors
+        By default, it could grow indefinitely

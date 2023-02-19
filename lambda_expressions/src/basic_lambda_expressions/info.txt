@@ -1,0 +1,3 @@
+Syntax for implementing a functional interface
+for example : (x,y) -> x+y
+

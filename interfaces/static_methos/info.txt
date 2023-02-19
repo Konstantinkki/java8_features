@@ -1,0 +1,11 @@
+AN interface can contain static methods since Java 8
+These methods are implemented with a method body (not abstract)
+can only be called on the interface (InterfaceName.staticMethodName() )
+Cannot be overriden or hidden in the class and belong to the interface
+
+Why do we want static methods in interface :
+    Allows for implementation in interfaces
+    Avoids cluttering of codebase with utility classes with static code when there is an interface
+    Overusing it is probably a code smell
+
+

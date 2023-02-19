@@ -1,0 +1,6 @@
+ways to create parallel streams :
+    Use  .parallelStream()  instead of .stream()
+    Use the .parallel() method on a Stream
+
+when parallel streams may be used:
+    if necessary work with huge data and processing of every element took a lot of time

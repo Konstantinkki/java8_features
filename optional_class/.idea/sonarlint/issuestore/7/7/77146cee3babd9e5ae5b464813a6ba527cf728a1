@@ -1,0 +1,8 @@
+
+o
+java:S1104"TMake userList a static final constant or non-public and provide accessors if needed.(Ü×Àñûÿÿÿÿ
+I
+java:S1444".Make this "public static userList" field final(Ü×Àñûÿÿÿÿ
+—
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+C	java:S108")Either remove or fill this block of code.(á‰°ûþÿÿÿÿ

@@ -1,0 +1,3 @@
+allows for a non-static method on an interface to have a body
+adding a default implementation can avoid breaking the code when changing the interface and enhance backward compatibility
+Default method can be overridden in class that implements the interface

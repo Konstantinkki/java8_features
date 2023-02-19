@@ -1,0 +1,23 @@
+Optional methods
+    deal with null values elegantly
+    extra functionality, such as validation
+
+    Optional Methods :
+        isPresent
+        orElse
+        orElseGet
+        orElseThrow
+        filter
+        map
+
+Get the value Out of the Optional
+    we could get a NoSuchElementException with the get method
+    Check with ifPresent before using get
+    But ...thet's a lot like dealing with null
+    more methods with different options!
+
+filter : if the element doesn't match the Predicate, it returns an empty Optional
+map: specifies an operation to be applied to the non-null value; if there is no value, it will return an empty Optional
+
+
+

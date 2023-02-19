@@ -1,0 +1,8 @@
+
+b
+java:S1192
+"GDefine a constant instead of duplicating this literal "Maaike" 3 times.(™‰È®üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì§©ˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒŸ¼¥üÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Formattable'.(·Ãð„ûÿÿÿÿ

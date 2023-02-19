@@ -1,0 +1,17 @@
+Lazy Streams
+    not executed until a terminal operation is called on the Stream
+    we need a terminal operation to complete the stream pipeline
+    only one terminal operation can be called on a Stream
+
+Common Terminal Operations:
+    forEach
+    min
+    count
+    max
+    allMatch
+    anyMatch
+    collect
+    noneMatch
+
+
+

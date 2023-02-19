@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Þ„ŸÅ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤ž¿äþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù­ê•
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ç÷ŽË
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€·…Éÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªë·Ëøÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ûÞ”‚ÿÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(úèù™
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(ÅÁl
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ÆÉÔ¹þÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(‹ùÂ¦
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Þï¨íúÿÿÿÿ
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ž­Üö8ªñƒ¦æ0
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(îì°á8ªñƒ¦æ0
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

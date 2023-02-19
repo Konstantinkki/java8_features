@@ -1,0 +1,5 @@
+Lambdas and scope
+    Lambdas don't have their own scope, but share the scope of the enclosing environment
+    Thus, lambdas cannot define identifier names that already exists in the enclosing scope
+    Fields and methods of the enclosing scope can be accessed from within the lambda
+    Local variables of the enclosing scope can be accessed if they are final or effectively final

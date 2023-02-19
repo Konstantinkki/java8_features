@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8edbf55b-1f86-4b4c-96b5-3e29cc7990c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../base_64/DecodeEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base_64/base_64.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../base_64/out/production/base_64/base_64.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/Foldable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/NoLambdaFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/Washable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/common_buildin_func_interfaces.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/build_in_functional_interface/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/default_method/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/default_method/Foldable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/default_method/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/default_method/Washable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/default_method/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/functional_interface/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/functional_interface/Foldable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/functional_interface/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/functional_interface/Washable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/functional_interface/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/out/production/interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/static_methos/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/static_methos/Foldable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/static_methos/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/static_methos/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8DateTime/java8DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8DateTime/out/production/java8DateTime/java8DateTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda_expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lambda_expressions/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lambda_expressions/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_lambda_expressions/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_as_function_agument/MethodArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_as_function_agument/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_as_function_agument/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_and_variables/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_and_variables/LambdaAndScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_and_variables/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_body/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_body/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_body/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_expressions_body/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_with_parameters/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_with_parameters/LambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_with_parameters/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda_with_parameters/info.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LvxOD358fMVdWieyhqG0xZbKvP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/DEVELOPMENT/My_PROJECTS/java8_features/lambda_expressions/src/lambda_expressions_body",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEVELOPMENT\My_PROJECTS\java8_features\lambda_expressions\src\lambda_expressions_body" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambda_as_function_agument" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodArgs">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="1131a3a3-546d-4152-a278-3df02f81c542" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda_with_parameters.LambdaExpressions" />
+      <module name="lambda_expressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda_with_parameters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda_as_function_agument.MethodArgs" />
+      <module name="lambda_expressions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda_as_function_agument.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodArgs" />
+        <item itemvalue="Application.LambdaExpressions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8edbf55b-1f86-4b4c-96b5-3e29cc7990c3" name="Changes" comment="" />
+      <created>1676765324624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676765324624</updated>
+      <workItem from="1676765326259" duration="4375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambda_as_function_agument/MethodArgs.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="str -&gt; str.length() &gt; 5" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

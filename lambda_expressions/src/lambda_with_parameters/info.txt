@@ -1,0 +1,9 @@
+if the abstract method in the functional interface specifies parameters, so must the lambda expression
+Examples:
+    zero parameters example :
+    () -> System.out.println("no parameters");
+
+    One parameter (x) -> x*2;
+
+    multiple parameters examples :
+    (x,y) -> x*y;

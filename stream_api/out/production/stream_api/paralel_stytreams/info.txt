@@ -1,0 +1,3 @@
+ways to create parallel streams :
+    Use  .parallelStream()  instead of .stream()
+    Use the .parallel() method on a Stream

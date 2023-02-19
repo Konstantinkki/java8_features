@@ -1,0 +1,4 @@
+Creating Optional :
+    Empty Optional
+    Optional with a non-null value
+    Optional with a potential null value

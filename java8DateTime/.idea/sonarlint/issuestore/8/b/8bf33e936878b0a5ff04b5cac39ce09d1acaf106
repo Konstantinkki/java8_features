@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûŞ”‚ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úèù™
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÁl
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÎëÅÙ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßëİşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äéª‘
+K
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ

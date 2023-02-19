@@ -1,0 +1,18 @@
+
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(èªŠåúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èªŠåúÿÿÿÿ
+U
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(øíž
+M	java:S106"9Replace this use of System.out or System.err by a logger.(øíž
+<
+java:S3864"!Remove this use of "Stream.peek".(ëþ¦Úúÿÿÿÿ
+M
+java:S1612"7Replace this lambda with method reference 'Stream::of'.(ÿÄ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëþ¦Úúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¶åÅþÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(‚æð
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ŒÜ•ê
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÁÅáôûÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Þ«ó‹ÿÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(½¥è©

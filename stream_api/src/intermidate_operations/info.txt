@@ -1,0 +1,14 @@
+operations between the source and terminal operation
+Multiply intermediate operations allowed on one Stream
+
+Intermediate Operations :
+filter
+map
+flatmap
+peek
+limit
+skip
+distinct
+sorted
+
+

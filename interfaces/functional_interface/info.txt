@@ -1,0 +1,4 @@
+functional interface has 1 abstract method
+Can contain default and static methods (they're not abstract)
+Can contain abstract methods that match the method signatures in Object since they have an implementation coming from Object
+must have for functional programming

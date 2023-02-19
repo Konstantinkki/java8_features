@@ -1,0 +1,17 @@
+
+W
+java:S1854"ARemove this useless assignment to local variable "iterateStream".(°”Õ
+X
+java:S1854"BRemove this useless assignment to local variable "generateStream".(ÆÇ…Õ
+Y
+java:S1854">Remove this useless assignment to local variable "listStream".(Ë†›ğıÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "arrayStream".(šµÛ¸ıÿÿÿÿ
+K
+java:S1481"0Remove this unused "arrayStream" local variable.(šµÛ¸ıÿÿÿÿ
+J
+java:S1481"/Remove this unused "listStream" local variable.(Ë†›ğıÿÿÿÿ
+I
+java:S1481"3Remove this unused "generateStream" local variable.(ÆÇ…Õ
+H
+java:S1481"2Remove this unused "iterateStream" local variable.(°”Õ
